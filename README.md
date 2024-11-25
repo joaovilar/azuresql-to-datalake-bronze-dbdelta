@@ -1,4 +1,4 @@
-# azuresql-to-datalake-bronze-dbdelta (in progress)
+# azuresql-to-datalake-medallion-dbdelta (in progress)
 Este repositório contém scripts e pipelines para extrair dados de um banco de dados SQL Server (Azure SQL), transformá-los e carregá-los em um Data Lake no formato Delta.
 
 ![image](https://github.com/user-attachments/assets/20708519-b42a-4431-8a5a-17998a5a6699)
