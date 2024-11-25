@@ -1,5 +1,8 @@
-# azuresql-to-datalake-bronze-dbdelta
+# azuresql-to-datalake-bronze-dbdelta (in progress)
 Este repositório contém scripts e pipelines para extrair dados de um banco de dados SQL Server (Azure SQL), transformá-los e carregá-los em um Data Lake no formato Delta.
+
+![image](https://github.com/user-attachments/assets/20708519-b42a-4431-8a5a-17998a5a6699)
+
 
 Utilizando o Delta Lake e o Databricks, o processo assegura a criação de tabelas bronze para armazenar dados brutos e realizar a ingestão contínua com controle de data e hora (timestamp), mantendo a integridade e a flexibilidade para futuras transformações.
 
